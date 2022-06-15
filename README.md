@@ -1,2 +1,2 @@
 # Streamlit-Learning
-streamlit 페이지 만들기 튜토리얼
+streamlit 적응하기
